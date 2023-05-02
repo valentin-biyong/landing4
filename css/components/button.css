@@ -1,0 +1,9 @@
+.btn-black{
+	background-color: black;
+	color: whitesmoke;
+	padding: 15px 20px;
+	border-radius: 10px;
+	font-family: RocknRoll One, sans-serif;
+	text-align: center;
+	margin-left: 2px;
+}
